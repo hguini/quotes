@@ -17,7 +17,7 @@ REST API-сервис на Go для хранения и управления ц
 ### 1. Клонировать репозиторий
 
 ```
-git clone https://github.com/yourusername/quotes.git
+git clone https://github.com/hguini/quotes.git
 cd quotes
 ```
 
